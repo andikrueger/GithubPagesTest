@@ -1,3 +1,11 @@
 remote_theme: swcool/landing-page-theme
 title: Welcome to this test page
 description: this is a test
+
+social:
+  - title: twitter
+    url: https://twitter.com/andikrueger_de
+    
+# Build settings
+markdown: kramdown
+permalink: pretty
